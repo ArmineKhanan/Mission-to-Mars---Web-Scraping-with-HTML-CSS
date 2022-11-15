@@ -10,7 +10,7 @@ A Jupyter notebook containing code that scrapes the Mars news titles and preview
 [Mars_news.json](https://github.com/ArmineKhanan/Mission-to-Mars---Web-Scraping-with-HTML-CSS/blob/main/Mars_news.json)
 
 
-##Deliverable 2: 
+## Deliverable 2: 
 
 A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
 
