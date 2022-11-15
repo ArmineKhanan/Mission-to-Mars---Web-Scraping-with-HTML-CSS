@@ -10,5 +10,5 @@ Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather 
 
 [mars_data_challenge_part_2.ipynb](https://github.com/ArmineKhanan/Mission-to-Mars---Web-Scraping-with-HTML-CSS/blob/main/mars_data_challenge_part_2.ipynb)
 
-[Mars_weather_data.csv] (https://github.com/ArmineKhanan/Mission-to-Mars---Web-Scraping-with-HTML-CSS/blob/main/Mars_weather_data.csv)
+[Mars_weather_data.csv](https://github.com/ArmineKhanan/Mission-to-Mars---Web-Scraping-with-HTML-CSS/blob/main/Mars_weather_data.csv)
 
